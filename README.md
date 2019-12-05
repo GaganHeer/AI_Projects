@@ -31,9 +31,9 @@ C# Projects:
 
 State Machine - Get Past the Guard
 - This project is built using Unity and C#
-- It can be run by launching the SeekAndFlee.exe file
+- It can be run by launching the A00933997_runnable_project_StateMachine.exe file (inside StateMachine folder)
 
 Seek And Flee - Tag
 - This project is built using Unity and C#
-- It can be run by launching the SeekAndFlee.exe file
+- It can be run by launching the A00933997_runnable_project_SeekAndFlee.exe file (inside SeekAndFlee folder)
 - If you’d like player 1 to automatically move by itself you can uncomment line #47-50 and #69-71
