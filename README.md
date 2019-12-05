@@ -2,6 +2,8 @@ Gagan Heer
 A00933997
 COMP 8901
 
+Repo: https://github.com/GaganHeer/AI_Projects
+
 Python Projects:
 
 Rule Based - Blackjack

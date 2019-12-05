@@ -106,7 +106,7 @@ def eval_model(model):
 if __name__ == '__main__':
     model = None
     try:
-        model = load_model('bestModel.h5')
+        model = load_model('modelNameHere.h5')
     except:
         print('No Available Model to Load')
     if not model:
